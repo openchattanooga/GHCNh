@@ -6,3 +6,7 @@ Global Historical Climatology Network Hourly for Chattanooga Airport
 ## example usage
 calculate the highest temperature (in celsius) at the station 
 <img width="1186" height="324" alt="image" src="https://github.com/user-attachments/assets/411faa25-e492-4585-89e8-d14176025c16" />
+
+## reference guide
+This guide helps explain what the columns mean:  
+https://www.ncei.noaa.gov/oa/global-historical-climatology-network/hourly/doc/ghcnh_DOCUMENTATION.pdf
